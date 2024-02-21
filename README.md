@@ -4,4 +4,7 @@
 - 💞️ I’m looking to get a job as a junior Java developer or someting to improve my skills and experience
 - 📫 How to reach me: My email address lytsenko.maksim@gmail.com
 
+# My skills(there will be more):
+- Java core;
+
 
