@@ -7,5 +7,6 @@
 
 ## My skills(there will be more):
 - Java core;
+- GUI with Swing package;
 
 
